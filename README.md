@@ -6,11 +6,6 @@ psutil: Para obter informações sobre o sistema e monitorar o uso de recursos.
 
 plyer: Para mostrar notificações nativas no seu sistema.
 
-platform: Essa biblioteca já faz parte da biblioteca padrão do Python, então não é necessário instalá-la separadamente.
-
-subprocess: Também é uma biblioteca padrão do Python, então não é necessário instalar.
-
-datetime: Também é parte da biblioteca padrão do Python e não precisa de instalação.
 
 
 
